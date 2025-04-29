@@ -19,7 +19,7 @@
   <section align = "left">
   <h4>✦ Entre constelações, códigos e café: Um pouco sobre mim ✦</h4>
   <h6>💕 Amor por animais, livros e música</h6>
-  <h6>🪐 Fascinada sobre o universo</h6>
+  <h6>🪐 Fascinada pelo universo</h6>
   <h6>☕ Viciada em cafezinhos e boas conversas </h6>
 
   <h4>Minhas redes</h4>
