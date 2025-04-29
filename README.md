@@ -18,7 +18,7 @@
 
   <section align = "left">
   <h4>✦ Entre constelações, códigos e café: Um pouco sobre mim ✦</h4>
-  <h6>💕 Amor por animais, livros e música</h6>
+  <h6>💕 Animais, livros e música</h6>
   <h6>🪐 Fascinada pelo universo</h6>
   <h6>☕ Viciada em cafezinhos e boas conversas </h6>
 
@@ -45,6 +45,5 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
    
 
