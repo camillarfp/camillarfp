@@ -22,7 +22,7 @@
   <h6>🪐 Fascinada pelo universo</h6>
   <h6>☕ Viciada em cafezinhos e boas conversas </h6>
 
-  <h4>Minhas redes</h4>
+  <h4>✦ Minhas redes ✦</h4>
      <a href="https://www.instagram.com/millaarfp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/camillarodriguesfp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
   
