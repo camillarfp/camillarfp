@@ -4,7 +4,7 @@
   <img   src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Fmc3EzN3JiZzJvczhscGNmaGNjNHF6eWY1bDlxcDIyOGEwaTRqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F99PZtJC8Hxm0/giphy.gif">
 </div>
 
- <h4 align = "center">Desenvolvedora Frontend em formação | Estudante de Análise e Desenvolvimento de Sistemas</h4> 
+ <h3 align = "center">Desenvolvedora Frontend em formação | Estudante de Análise e Desenvolvimento de Sistemas</h3> 
 
  <br>
 
