@@ -8,7 +8,7 @@
 
  <br>
 
--  **Foco em** Desenvolvimento Web, UI/UX, Engenharia de Software
+-  **Foco em** Desenvolvimento Frontend, UI/UX, Engenharia de Software
 -  **Atualmente desenvolvendo** o projeto [PetSystem](https://github.com/PetSystemUnicSul/PetSystem) 
 -  **Contato:** camillarodriguesfp@gmail.com
 
