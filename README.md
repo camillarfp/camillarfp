@@ -4,32 +4,57 @@
   <img  width="470px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Fmc3EzN3JiZzJvczhscGNmaGNjNHF6eWY1bDlxcDIyOGEwaTRqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F99PZtJC8Hxm0/giphy.gif">
 </div>
 
- <h3 align = "center">Desenvolvedora Frontend em formação | Estudante de Análise e Desenvolvimento de Sistemas</h3> 
+ <h3 align = "center">Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas</h3> 
 
  <br>
 
 -  **Foco em** Desenvolvimento Frontend, UI/UX, Engenharia de Software
--  **Atualmente desenvolvendo** o projeto [PetSystem](https://github.com/PetSystemUnicSul/PetSystem) 
 -  **Contato:** camillarodriguesfp@gmail.com
+- Apaixonada por animais, livros, música, boas conversas e café ☕
 
-##
+## 
+
+  ### ✨ Principais projetos 
   
-  <img align="right" width="470px" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGF1aXkxcWgyYmNvdzI3OWpxMWl1Z2l4OWpsN3Bwc3ppdnplNHR6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BRN2Xi0MqnjjO/giphy.gif">
+  <section>
+    
+  <details>
+  <summary><strong>PetSystem</strong></summary>
+  <p>Sistema fullstack para gestão de agendamentos em petshops e clínicas veterinárias.</p>
 
-  <section align = "left">
-  <h4>✦ Entre constelações, códigos e café: Um pouco sobre mim ✦</h4>
-  <h6>💕 Animais, livros e música</h6>
-  <h6>🪐 Fascinada pelo universo</h6>
-  <h6>☕ Viciada em cafezinhos e boas conversas </h6>
+  🔗 [Repositório do projeto](https://github.com/camillarodriguesfp/PetSystem) |
+  🖥️ [Sistema online](https://pet-system-delta.vercel.app/)
 
-  <h4>✦ Minhas redes ✦</h4>
-     <a href="https://www.instagram.com/millaarfp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/camillarodriguesfp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
+  <p><strong>Principais funcionalidades:</strong></p>
+  <ul>
+    <li>Cadastro e login de usuário</li>
+    <li>Dashboard para visualização de agendamentos</li>
+    <li>Controle de status de agendamentos</li>
+    <li>Gestão de clientes e pets</li>
+  </ul>
+</details>
+
+  <details>
+  <summary><strong>Luguel</strong></summary>
+  <p>Plataforma de aluguel, que incentiva o consumo compartilhado, permitindo que usuários aluguem objetos e também disponibilizem seus próprios itens para aluguel.</p> 
+
+  📌 Projeto em fase de protótipo – não implementado.  <br> 
+  🎨 [Acesse o protótipo no Figma](https://www.figma.com/proto/bJe7sXIWnUYPeiFgEikXw3/Novo-Luguel?node-id=1-2&p=f&t=0X2zWZS0uuD98g2A-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
+  <p><strong>Objetivos principais:</strong></p>
+  <ul>
+    <li>Promover o consumo consciente e sustentável</li>
+    <li>Permitir o aluguel de itens do dia a dia (ferramentas, eletrônicos, etc.)</li>
+    <li>Facilitar o processo de aluguel de itens, tornando mais acessível a prática tanto de alugar quanto de disponibilizar seus próprios itens para locação</li>
+  </ul>
+</details>
    
   ##
 
-  <section align="left">
-  <h4>✦ Tecnologias e Ferramentas ✦</h4>
+  <section>
+    
+  ### 🛠️ Tecnologias e Ferramentas 
+  
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black">
@@ -39,5 +64,9 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-   
 
+   ##
+   
+  ### 📱 Minhas redes 
+  <a href="https://www.instagram.com/millaarfp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/camillarodriguesfp" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
