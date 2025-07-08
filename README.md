@@ -9,7 +9,7 @@
  <br>
 
 -  **Foco em** Desenvolvimento Frontend, UI/UX, Engenharia de Software
--  **Contato:** camillarodriguesf2p@gmail.com
+-  **Contato:** camillarodriguesfp2@gmail.com
 - Apaixonada por animais, livros, música, boas conversas e café ☕
 
 ## 
@@ -22,7 +22,7 @@
   <summary><strong>PetSystem</strong></summary>
   <p>Sistema fullstack para gestão de agendamentos em petshops e clínicas veterinárias.</p>
 
-  🔗 [Repositório do projeto](https://github.com/camillarodriguesfp2/PetSystem) |
+  🔗 [Repositório do projeto](https://github.com/camillarodriguesfp/PetSystem) |
   🖥️ [Sistema online](https://pet-system-delta.vercel.app/)
 
   <p><strong>Principais funcionalidades:</strong></p>
