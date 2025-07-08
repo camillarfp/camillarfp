@@ -22,7 +22,7 @@
   <summary><strong>PetSystem</strong></summary>
   <p>Sistema fullstack para gestão de agendamentos em petshops e clínicas veterinárias.</p>
 
-  🔗 [Repositório do projeto](https://github.com/PetSystem) |
+  🔗 [Repositório do projeto]([https://github.com/PetSystem](https://github.com/PetSystemUnicSul/PetSystem) |
   🖥️ [Sistema online](https://pet-system-delta.vercel.app/)
 
   <p><strong>Principais funcionalidades:</strong></p>
