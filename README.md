@@ -9,7 +9,7 @@
  <br>
 
 -  **Foco em** Desenvolvimento Frontend, UI/UX, Engenharia de Software
--  **Contato:** camillarodriguesfp@gmail.com
+-  **Contato:** camillarodriguesf2p@gmail.com
 - Apaixonada por animais, livros, música, boas conversas e café ☕
 
 ## 
