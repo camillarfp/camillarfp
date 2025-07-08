@@ -1,7 +1,7 @@
 <h2 align="center"> Olá! 🍄 Sou a Camilla </h2> 
 
 <div align="center">
-  <img  width="470px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Fmc3EzN3JiZzJvczhscGNmaGNjNHF6eWY1bDlxcDIyOGEwaTRqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F99PZtJC8Hxm0/giphy.gif">
+  <img  width="400px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Fmc3EzN3JiZzJvczhscGNmaGNjNHF6eWY1bDlxcDIyOGEwaTRqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F99PZtJC8Hxm0/giphy.gif">
 </div>
 
  <h3 align = "center">Desenvolvedora Frontend | Estudante de Análise e Desenvolvimento de Sistemas</h3> 
